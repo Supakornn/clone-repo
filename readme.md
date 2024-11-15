@@ -9,11 +9,14 @@
 python -m ensurepip --upgrade
 ```
 
-## LET'S START! Good Luck<>
+## LET'S START! 
 ```bash
-pip install -r requirements.txt
+  git clone https://github.com/Supakornn/clone-repo.git
+  cd clone-repo
+  pip install -r requirements.txt
 ```
 
+## Hint? Good Luck 
 ```bash
     ### Hint.1 The moon is lighting.
     python3 decrypt.py
