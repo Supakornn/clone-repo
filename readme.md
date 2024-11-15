@@ -24,7 +24,7 @@ python decrypt.py
 ```
 
 ```bash
-### Hint.2 Math is good.
+### Hint.2 Math is good. ><
 
 | Letter | Number |
 | ------ | ------ |
