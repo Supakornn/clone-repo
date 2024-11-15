@@ -11,7 +11,7 @@ python -m ensurepip --upgrade
 
 ## LET'S START! Good Luck<>
 ```bash
-py pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ```bash
