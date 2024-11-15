@@ -13,7 +13,7 @@ python -m ensurepip --upgrade
 ```bash
   git clone https://github.com/Supakornn/clone-repo.git
   cd clone-repo
-  pip install -r requirements.txt
+  pip3 install -r requirements.txt
 ```
 
 ## Hint? Good Luck 
