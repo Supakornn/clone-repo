@@ -11,19 +11,19 @@ python -m ensurepip --upgrade
 
 ## LET'S START! 
 ```bash
-  git clone https://github.com/Supakornn/clone-repo.git
-  cd clone-repo
-  pip3 install -r requirements.txt
+git clone https://github.com/Supakornn/clone-repo.git
+cd clone-repo
+pip3 install -r requirements.txt
 ```
 
 ## Hint? Good Luck 
 ```bash
-    ### Hint.1 The moon is lighting.
-    python3 decrypt.py
+### Hint.1 The moon is lighting.
+python3 decrypt.py
 ```
 
 ```bash
-    ### Hint.2 Math is good.
+### Hint.2 Math is good.
 
 | Letter | Number |
 | ------ | ------ |
