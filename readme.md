@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ## Hint? Good Luck 
 ```bash
 ### Hint.1 The moon is lighting.
-python3 decrypt.py
+python decrypt.py
 ```
 
 ```bash
