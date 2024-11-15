@@ -2,15 +2,6 @@
 
 ## Python Installation Guide
 
-This guide will help you install Python on your system. Python is a powerful, high-level programming language used for a wide range of applications from web development to data analysis.
-
-## Prerequisites
-
-- A computer running **Windows**, **macOS**, or **Linux** (Ubuntu/Debian).
-- Internet access to download Python.
-
----
-
 ## Installation Steps
 
 ### For Windows
