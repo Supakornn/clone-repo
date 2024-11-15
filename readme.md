@@ -1,6 +1,6 @@
 # Prerequisted
    **Download Python:**
-  **Python Version 3.00 +
+  **Python Version 3.00 +**
    - Visit the [official Python download page](https://www.python.org/downloads/).
    - Click on "Download Python
 
