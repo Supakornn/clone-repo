@@ -1,25 +1,37 @@
 # Prerequisted
-   **Download Python:**
-  **Python Version 3.00 +**
-   - Visit the [official Python download page](https://www.python.org/downloads/).
-   - Click on "Download Python
+
+**Download Python:**
+**Python Version 3.00 +**
+
+- Visit the [official Python download page](https://www.python.org/downloads/).
+- Click on "Download Python
 
 ### Installing `pip` (Python Package Installer)
+
 ```bash
 python -m ensurepip --upgrade
 ```
 
-## LET'S START! 
+## LET'S START!
+
 ```bash
 git clone https://github.com/Supakornn/clone-repo.git
 cd clone-repo
 pip3 install -r requirements.txt
 ```
 
-## Hint? Good Luck 
-### The answer is 3 words. The folder name will tell you the location of the word _ _ _, But It's not that simple.
+## Hint? Good Luck
+
+### The answer is 3 words. The folder name will tell you the location of the word \_ \_ \_, But It's not that simple.
+
+### .env You need to find the secret key to decryption .
+
 ```bash
 ### Hint.1 The moon is lighting.
+SECRET_KEY=
+```
+
+```bash
 python decrypt.py
 ```
 
