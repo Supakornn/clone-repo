@@ -20,7 +20,7 @@ python3 -m ensurepip --upgrade
 
 ## LET'S START!
 
-### The answer of this question is 3 words. The folder name will tell you the location of the word \_ \_ \_, But It's not that simple.
+### 1 folder has 1 word, the answer to this question is 3 words. The folder name tells you where the word \_ \_ \_ is, but it's not that simple.
 
 ### Window
 ```bash
