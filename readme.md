@@ -20,7 +20,7 @@ python3 -m ensurepip --upgrade
 
 ## LET'S START!
 
-### important -> 1 folder has 1 word, the answer to this question is 3 words. The folder name tells you where the word \_ \_ \_ is, but it's not that simple.
+### important -> 1 folder has 1 word, the answer to this question is 3 words.
 
 ### Window
 ```bash
@@ -39,9 +39,8 @@ pip3 install -r requirements.txt
 ## Good Luck
 
 ### .env You need to find the secret key to decryption .
-
-```bash
 ### Hint.1 My moon is lighting.
+```bash
 SECRET_KEY=
 ```
 ### Window
@@ -53,9 +52,10 @@ py decrypt.py
 python3 decrypt.py
 ```
 
-```bash
-### Hint.2 Math is good. ><
+### Hint.2 Table will help you to get the words
 
+### Hint.3 The folder name will tell you the index of words _ _ _
+```bash
 | Letter | Number |
 | ------ | ------ |
 | A      | 1      |
