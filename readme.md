@@ -41,7 +41,7 @@ pip3 install -r requirements.txt
 ### .env You need to find the secret key to decryption .
 
 ```bash
-### Hint.1 The moon is lighting.
+### Hint.1 My moon is lighting.
 SECRET_KEY=
 ```
 ### Window
