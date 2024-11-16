@@ -34,7 +34,7 @@ cd clone-repo
 pip3 install -r requirements.txt
 ```
 
-## Hint? Good Luck
+## Good Luck
 
 ### The answer is 3 words. The folder name will tell you the location of the word \_ \_ \_, But It's not that simple.
 
