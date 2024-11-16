@@ -15,7 +15,7 @@ py -m ensurepip --upgrade
 
 ### Mac
 ```bash
-python -m ensurepip --upgrade
+python3 -m ensurepip --upgrade
 ```
 
 ## LET'S START!
@@ -24,7 +24,14 @@ python -m ensurepip --upgrade
 ```bash
 git clone https://github.com/Supakornn/clone-repo.git
 cd clone-repo
-py pip install -r requirements.txt
+py -m pip install -r requirements.txt
+```
+
+### Mac
+```bash
+git clone https://github.com/Supakornn/clone-repo.git
+cd clone-repo
+pip3 install -r requirements.txt
 ```
 
 ## Hint? Good Luck
@@ -37,9 +44,13 @@ py pip install -r requirements.txt
 ### Hint.1 The moon is lighting.
 SECRET_KEY=
 ```
-
+### Window
 ```bash
-python decrypt.py
+py decrypt.py
+```
+### Mac
+```bash
+python3 decrypt.py
 ```
 
 ```bash
