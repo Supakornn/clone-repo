@@ -20,6 +20,8 @@ python3 -m ensurepip --upgrade
 
 ## LET'S START!
 
+### The answer of this question is 3 words. The folder name will tell you the location of the word \_ \_ \_, But It's not that simple.
+
 ### Window
 ```bash
 git clone https://github.com/Supakornn/clone-repo.git
@@ -35,8 +37,6 @@ pip3 install -r requirements.txt
 ```
 
 ## Good Luck
-
-### The answer is 3 words. The folder name will tell you the location of the word \_ \_ \_, But It's not that simple.
 
 ### .env You need to find the secret key to decryption .
 
