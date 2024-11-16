@@ -20,7 +20,7 @@ python3 -m ensurepip --upgrade
 
 ## LET'S START!
 
-### 1 folder has 1 word, the answer to this question is 3 words. The folder name tells you where the word \_ \_ \_ is, but it's not that simple.
+### important -> 1 folder has 1 word, the answer to this question is 3 words. The folder name tells you where the word \_ \_ \_ is, but it's not that simple.
 
 ### Window
 ```bash
