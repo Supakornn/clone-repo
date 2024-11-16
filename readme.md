@@ -8,8 +8,14 @@
 
 ### Installing `pip` (Python Package Installer)
 
+## Window
 ```bash
-python -m ensurepip --upgrade
+py -m ensurepip --upgrade
+```
+
+## Mac
+```bash
+py -m ensurepip --upgrade
 ```
 
 ## LET'S START!
@@ -17,7 +23,7 @@ python -m ensurepip --upgrade
 ```bash
 git clone https://github.com/Supakornn/clone-repo.git
 cd clone-repo
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Hint? Good Luck
