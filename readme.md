@@ -20,8 +20,6 @@ python3 -m ensurepip --upgrade
 
 ## LET'S START!
 
-### important -> 1 folder has 1 word, the answer to this question is 3 words.
-
 ### Window
 ```bash
 git clone https://github.com/Supakornn/clone-repo.git
@@ -37,6 +35,13 @@ pip3 install -r requirements.txt
 ```
 
 ## Good Luck
+### important -> 1 folder has 1 word, the answer to this question is 3 words.
+
+### Hint 1: My moon is lighting.
+### Add the key to the .env file:
+```bash
+SECRET_KEY=<your_secret_key>
+```
 
 ### Window
 ```bash
@@ -45,12 +50,6 @@ py decrypt.py
 ### Mac
 ```bash
 python3 decrypt.py
-```
-
-### Hint 1: My moon is lighting.
-### Add the key to the .env file:
-```bash
-SECRET_KEY=<your_secret_key>
 ```
 
 ### Hint 2: ASCII Table will help you to get the words.
