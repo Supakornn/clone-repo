@@ -38,11 +38,6 @@ pip3 install -r requirements.txt
 
 ## Good Luck
 
-### .env You need to find the secret key to decryption .
-### Hint.1 My moon is lighting.
-```bash
-SECRET_KEY=
-```
 ### Window
 ```bash
 py decrypt.py
@@ -52,9 +47,14 @@ py decrypt.py
 python3 decrypt.py
 ```
 
-### Hint.2 Table will help you to get the words
+### Hint 1: My moon is lighting.
+### Add the key to the .env file:
+```bash
+SECRET_KEY=<your_secret_key>
+```
 
-### Hint.3 The folder name will tell you the index of words _ _ _
+### Hint 2: Table will help you to get the words.
+### Use this table to assist in decoding
 ```bash
 | Letter | Number |
 | ------ | ------ |
@@ -84,6 +84,9 @@ python3 decrypt.py
 | X      | 24     |
 | Y      | 25     |
 | Z      | 26     |
-
-MAY BE YOU NEED TO USE THIS
 ```
+
+### Hint 3 : The folder name will tell you the index of the words.
+- Use the folder names and the table to decode their significance.
+- Arrange the words in the correct order to reveal the final phrase.
+
