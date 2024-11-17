@@ -53,7 +53,7 @@ python3 decrypt.py
 SECRET_KEY=<your_secret_key>
 ```
 
-### Hint 2: ASCII Table will help you to get the words.|
+### Hint 2: ASCII Table will help you to get the words.
 
 ### Hint 3 : The folder name will tell you the index of the words.
 - Use the folder names and the table to decode their significance.
