@@ -52,7 +52,7 @@ py decrypt.py
 python3 decrypt.py
 ```
 
-### Hint 2: ASCII Table will help you to get the words.
+### Hint 2: The ASCII table will help you get the words from the folder.
 
 ### Hint 3 : The folder name will tell you the index of the words.
 - Use the folder names and the table to decode their significance.
