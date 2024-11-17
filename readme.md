@@ -53,7 +53,11 @@ python3 decrypt.py
 SECRET_KEY=<your_secret_key>
 ```
 
-### Hint 2: Table will help you to get the words.
+### Hint 2: ASCII Table will help you to get the words.|
+
+### Hint 3 : The folder name will tell you the index of the words.
+- Use the folder names and the table to decode their significance.
+- Arrange the words in the correct order to reveal the final phrase.
 ### Use this table to assist in decoding
 ```bash
 | Letter | Number |
@@ -86,7 +90,4 @@ SECRET_KEY=<your_secret_key>
 | Z      | 26     |
 ```
 
-### Hint 3 : The folder name will tell you the index of the words.
-- Use the folder names and the table to decode their significance.
-- Arrange the words in the correct order to reveal the final phrase.
 
